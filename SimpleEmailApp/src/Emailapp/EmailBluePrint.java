@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EmailBluePrint {
 private String firstName;
 private String lastName;
-private String Password;
+private String password;
 private String departmentName;
 private String alternativeEmail;
 private int capaciyOfEmail;
@@ -23,6 +23,8 @@ System.out.println("Constructed Email for: "+this.firstName+ "  " +this.lastName
 
 this.departmentName=setDepartmentName();
 System.out.println("Your Department is: "+this.departmentName);
+this.password=setRandomPassword(9);
+System.out.println(this.password);
 	
 }
 
@@ -43,6 +45,24 @@ public String setDepartmentName() {
 
 
 //Create a random string password
+
+
+
+public String setRandomPassword(int length) {
+	//From this collection of Characters, we will create random Password.
+	String stuff="ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()[]{}";
+	char[] tassword=new char[9];
+	for (int i=0; i<9; i++)
+	{
+	 
+	 int rand= (int) ((Math.random())*stuff.length());
+	 
+	 tassword[i]=stuff.charAt(rand);
+	}
+	
+	return new String(tassword);
+	
+}
 
 
 //set alternative email

@@ -6,6 +6,7 @@ public class EmailApp {
 		// TODO Auto-generated method stub
 		
 		EmailBluePrint em1 = new EmailBluePrint("Anudeep", "Nayakoti");
+		
 
 	}
 
