@@ -8,7 +8,7 @@ public class ChartoString {
         System.out.println(chars[0]); //Testing Purpose
 
         String s1=new String(chars);// Assigned the chars array to String
-        System.out.println(s1);// It conversted the list of items inside an Chars array into a String
+        System.out.println(s1);// It converted the list of items inside an Chars array into a String
 
 
     }
