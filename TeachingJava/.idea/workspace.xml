@@ -42,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InstanceVriablesAndMethods">
+  <component name="RunManager" selected="Application.ChartoString">
+    <configuration name="ChartoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.ChartoString" />
+      <module name="TeachingJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teachingJava.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DefaultBooleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.DefaultBooleans" />
       <module name="TeachingJava" />
@@ -65,16 +78,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.Main" />
-      <module name="TeachingJava" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChartoString" />
         <item itemvalue="Application.InstanceVriablesAndMethods" />
         <item itemvalue="Application.NewStuff" />
         <item itemvalue="Application.DefaultBooleans" />
         <item itemvalue="Application.UsingbIGClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +132,7 @@
       <workItem from="1573420842206" duration="226000" />
       <workItem from="1573421096321" duration="1272000" />
       <workItem from="1573432143923" duration="2474000" />
-      <workItem from="1573591119375" duration="3360000" />
+      <workItem from="1573591119375" duration="3657000" />
     </task>
     <servers />
   </component>
