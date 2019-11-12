@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UsingForeachLoopInJava">
+  <component name="RunManager" selected="Application.NewFormattorJava7IntroducedUnderscores">
     <configuration name="ChartoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.ChartoString" />
       <module name="TeachingJava" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultBooleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.DefaultBooleans" />
+    <configuration name="InstanceVriablesAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.InstanceVriablesAndMethods" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceVriablesAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.InstanceVriablesAndMethods" />
+    <configuration name="NewFormattorJava7IntroducedUnderscores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.NewFormattorJava7IntroducedUnderscores" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewFormattorJava7IntroducedUnderscores" />
         <item itemvalue="Application.UsingForeachLoopInJava" />
         <item itemvalue="Application.ChartoString" />
         <item itemvalue="Application.InstanceVriablesAndMethods" />
         <item itemvalue="Application.NewStuff" />
-        <item itemvalue="Application.DefaultBooleans" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1573421096321" duration="1272000" />
       <workItem from="1573432143923" duration="2474000" />
       <workItem from="1573591119375" duration="4267000" />
-      <workItem from="1573600359343" duration="337000" />
+      <workItem from="1573600359343" duration="1858000" />
     </task>
     <servers />
   </component>
