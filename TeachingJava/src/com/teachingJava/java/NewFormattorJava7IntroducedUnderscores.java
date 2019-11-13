@@ -24,7 +24,7 @@ public class NewFormattorJava7IntroducedUnderscores {
         String finalizedCoverted=convertLongestValue.format(longestValue); //Insted of .format, I used String and there was an Error
         //Long value cannot be converted to String
         System.out.println(finalizedCoverted);
-        
+
 
 
 
