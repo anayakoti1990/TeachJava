@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a27430d3-234e-4c2c-93b5-b8160bd0efb3" name="Default Changelist" comment="" />
+    <list default="true" id="a27430d3-234e-4c2c-93b5-b8160bd0efb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/teachingJava/java/LetsWorkWithLocale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TeachingJava/com/teachingJava/java/UseDotEqualsToCompareStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachingJava/com/teachingJava/java/UseDotEqualsToCompareStrings.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Anudeep" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -24,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Main.class" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseDotEqualsToCompareStrings">
+  <component name="RunManager" selected="Application.LetsWorkWithLocale">
     <configuration name="ChartoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.ChartoString" />
       <module name="TeachingJava" />
@@ -56,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceVriablesAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.InstanceVriablesAndMethods" />
+    <configuration name="LetsWorkWithLocale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.LetsWorkWithLocale" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetsWorkWithLocale" />
         <item itemvalue="Application.UseDotEqualsToCompareStrings" />
         <item itemvalue="Application.NewFormattorJava7IntroducedUnderscores" />
         <item itemvalue="Application.UsingForeachLoopInJava" />
         <item itemvalue="Application.ChartoString" />
-        <item itemvalue="Application.InstanceVriablesAndMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +142,24 @@
       <workItem from="1573421096321" duration="1272000" />
       <workItem from="1573432143923" duration="2474000" />
       <workItem from="1573591119375" duration="4267000" />
-      <workItem from="1573600359343" duration="2987000" />
+      <workItem from="1573600359343" duration="3599000" />
+      <workItem from="1573662826149" duration="1997000" />
     </task>
+    <task id="LOCAL-00001" summary="Using git via iNTELLIj">
+      <created>1573663118953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573663118953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Using git via iNTELLIj">
+      <created>1573664687070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573664687070</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,5 +177,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Using git via iNTELLIj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using git via iNTELLIj" />
   </component>
 </project>
