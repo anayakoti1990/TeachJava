@@ -2,7 +2,6 @@
 ** @Anu
 * In this Program I will be teaching you different kinds of loops in Java
  */
-
 package com.teachingJava.java;
 
 import java.util.Arrays;
