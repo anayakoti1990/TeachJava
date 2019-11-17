@@ -3,7 +3,7 @@ package com.teachingJava.java;
 //In the other class we are creating Objects and reusing all the stuff in this Class in other Class
 public class MultipleClassMechanism {
 
- public static  String firstName="Anudeep";
+   public static  String firstName="Anudeep";
  public static final String lastName = "Nayakoti";
  
  
