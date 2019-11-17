@@ -8,6 +8,9 @@ public class ClassForInteractingWithOtherClasses {
 		MultipleClassMechanism obj1=new MultipleClassMechanism();
 		MultipleClassMechanism obj2=new MultipleClassMechanism();
 		MultipleClassMechanism obj3=new MultipleClassMechanism();
+		MultipleClassMechanism obj4=new MultipleClassMechanism();
+		obj4.firstName="Sai";//We are able to change the firstName because the attribute was public
+		System.out.println(obj4.firstName);
 		obj3.changeFirstname();
 		obj2.getfirstName();
 		
