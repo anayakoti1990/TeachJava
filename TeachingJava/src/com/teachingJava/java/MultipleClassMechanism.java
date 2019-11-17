@@ -4,7 +4,8 @@ package com.teachingJava.java;
 public class MultipleClassMechanism {
 
  public static  String firstName="Anudeep";
- private static String  lastName="Nayakoti";
+ public static final String lastName = "Nayakoti";
+ 
  
  //Since the attributes are Private, the only way to access them is by method
  public static void getfirstName() {
