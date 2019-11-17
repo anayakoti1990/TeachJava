@@ -7,7 +7,10 @@ public class ClassForInteractingWithOtherClasses {
 		
 		MultipleClassMechanism obj1=new MultipleClassMechanism();
 		MultipleClassMechanism obj2=new MultipleClassMechanism();
+		MultipleClassMechanism obj3=new MultipleClassMechanism();
+		obj3.changeFirstname();
 		obj2.getfirstName();
+		
         obj1.method1();
 	}
 
