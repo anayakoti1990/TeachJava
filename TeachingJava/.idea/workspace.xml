@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a27430d3-234e-4c2c-93b5-b8160bd0efb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/teachingJava/java/TwoDarrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CalculatorArithmetic" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorArithmetic" afterDir="false" />
@@ -52,9 +53,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WorkingwithSwitch">
-    <configuration name="LetsWorkWithLocale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.LetsWorkWithLocale" />
+  <component name="RunManager" selected="Application.TwoDarrays">
+    <configuration name="CopyAndReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.CopyAndReference" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.StringParser" />
+    <configuration name="MethodOverloadingConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.MethodOverloadingConcept" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseDotEqualsToCompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.UseDotEqualsToCompareStrings" />
+    <configuration name="TwoDarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.TwoDarrays" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.WorkingWithDates" />
+    <configuration name="UsingForeachLoopInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.UsingForeachLoopInJava" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingwithSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.teachingJava.WorkingwithSwitch" />
+    <configuration name="VariousLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teachingJava.java.VariousLoops" />
       <module name="TeachingJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.teachingJava.*" />
+          <option name="PATTERN" value="com.teachingJava.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WorkingwithSwitch" />
-        <item itemvalue="Application.WorkingWithDates" />
-        <item itemvalue="Application.StringParser" />
-        <item itemvalue="Application.LetsWorkWithLocale" />
-        <item itemvalue="Application.UseDotEqualsToCompareStrings" />
+        <item itemvalue="Application.TwoDarrays" />
+        <item itemvalue="Application.CopyAndReference" />
+        <item itemvalue="Application.MethodOverloadingConcept" />
+        <item itemvalue="Application.VariousLoops" />
+        <item itemvalue="Application.UsingForeachLoopInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +147,8 @@
       <workItem from="1573600359343" duration="3599000" />
       <workItem from="1573662826149" duration="6138000" />
       <workItem from="1573687514146" duration="1354000" />
+      <workItem from="1573927774512" duration="1810000" />
+      <workItem from="1573938246658" duration="6738000" />
     </task>
     <task id="LOCAL-00001" summary="Using git via iNTELLIj">
       <created>1573663118953</created>
